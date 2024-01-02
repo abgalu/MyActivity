@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.display {
+  font-weight: bold;
+}

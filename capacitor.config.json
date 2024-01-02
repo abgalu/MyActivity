@@ -1,0 +1,8 @@
+{
+  "appId": "com.MyActivity.app",
+  "appName": "MyActivity",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
