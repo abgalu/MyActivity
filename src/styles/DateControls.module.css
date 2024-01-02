@@ -1,0 +1,11 @@
+.button {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.selects {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 8px;
+  justify-content: center;
+}
